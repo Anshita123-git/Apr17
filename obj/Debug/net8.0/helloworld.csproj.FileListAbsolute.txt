@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\.Net training capg\Webapp\helloworld\bin\Debug\net8.0\helloworld.exe
+C:\Users\HP\OneDrive\Desktop\.Net training capg\Webapp\helloworld\bin\Debug\net8.0\helloworld.deps.json
+C:\Users\HP\OneDrive\Desktop\.Net training capg\Webapp\helloworld\bin\Debug\net8.0\helloworld.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\.Net training capg\Webapp\helloworld\bin\Debug\net8.0\helloworld.dll
+C:\Users\HP\OneDrive\Desktop\.Net training capg\Webapp\helloworld\bin\Debug\net8.0\helloworld.pdb
+C:\Users\HP\OneDrive\Desktop\.Net training capg\Webapp\helloworld\obj\Debug\net8.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\.Net training capg\Webapp\helloworld\obj\Debug\net8.0\helloworld.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\.Net training capg\Webapp\helloworld\obj\Debug\net8.0\helloworld.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\.Net training capg\Webapp\helloworld\obj\Debug\net8.0\helloworld.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\.Net training capg\Webapp\helloworld\obj\Debug\net8.0\helloworld.dll
+C:\Users\HP\OneDrive\Desktop\.Net training capg\Webapp\helloworld\obj\Debug\net8.0\refint\helloworld.dll
+C:\Users\HP\OneDrive\Desktop\.Net training capg\Webapp\helloworld\obj\Debug\net8.0\helloworld.pdb
+C:\Users\HP\OneDrive\Desktop\.Net training capg\Webapp\helloworld\obj\Debug\net8.0\helloworld.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\.Net training capg\Webapp\helloworld\obj\Debug\net8.0\ref\helloworld.dll
